@@ -1,0 +1,15 @@
+moviebuddy/PropertiesTests.java
+ moviebuddy.PropertiesTests
+moviebuddy/CaffeineTests.java
+ moviebuddy.CaffeineTests
+moviebuddy/data/CachingMovieReaderTest.java
+ moviebuddy.data.CachingMovieReaderTest
+ moviebuddy.data.CachingMovieReaderTest$DummyMovieReader
+moviebuddy/data/CsvMovieReaderTest.java
+ moviebuddy.data.CsvMovieReaderTest
+moviebuddy/data/XmlMovieReaderTest.java
+ moviebuddy.data.XmlMovieReaderTest
+moviebuddy/domain/MovieFinderTest.java
+ moviebuddy.domain.MovieFinderTest
+moviebuddy/domain/BeanScopeTest.java
+ moviebuddy.domain.BeanScopeTest
