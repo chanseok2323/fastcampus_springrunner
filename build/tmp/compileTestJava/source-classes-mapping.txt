@@ -2,9 +2,15 @@ moviebuddy/PropertiesTests.java
  moviebuddy.PropertiesTests
 moviebuddy/CaffeineTests.java
  moviebuddy.CaffeineTests
+moviebuddy/ReflectionTests.java
+ moviebuddy.ReflectionTests
+ moviebuddy.ReflectionTests$Duck
 moviebuddy/data/CachingMovieReaderTest.java
  moviebuddy.data.CachingMovieReaderTest
  moviebuddy.data.CachingMovieReaderTest$DummyMovieReader
+moviebuddy/JdkDynamicProxyTests.java
+ moviebuddy.JdkDynamicProxyTests
+ moviebuddy.JdkDynamicProxyTests$PerformanceInvocationHandler
 moviebuddy/data/CsvMovieReaderTest.java
  moviebuddy.data.CsvMovieReaderTest
 moviebuddy/data/XmlMovieReaderTest.java
